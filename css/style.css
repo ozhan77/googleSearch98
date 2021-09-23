@@ -1,0 +1,52 @@
+body
+ {
+     text-align: center;
+ }
+header
+{
+
+}
+section
+{
+    
+}
+.buttons
+{
+
+}
+.Search-area
+{
+    background-color:#eeeeee;
+    height: 60;
+}
+.Articals
+{
+    height: auto;
+    width: auto;
+    display: flex;
+}
+.Artical1
+{
+    
+    background-color: #7ee5da;
+    width: 25%;
+    float: left;
+    
+}
+.Artical2
+{
+    
+    background-color: #70ccc2;
+    width: 50%;
+    
+}
+.Artical3
+{
+    
+    background-color: #62b3aa;
+    width: 25%;
+    float: right;
+}
+ul{
+    list-style-type: none;
+}
